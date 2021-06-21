@@ -1,3 +1,4 @@
+'use strict';
 let userName = prompt("Enter your Name Plz ? ");
 console.log(userName);
 alert(" hello (( "+ userName +" )) welcome to our Website ")
